@@ -44,3 +44,26 @@ The Requirement Analysis phase involves several key activities, each of which pl
 - **Requirement Validation**: This activity involves reviewing the requirements with stakeholders to ensure they are accurate and meet the business and user needs. Any discrepancies are resolved, and the finalized requirements are confirmed before moving on to the design phase.
 
 These activities ensure that the requirements are well-defined, achievable, and aligned with stakeholder expectations, setting the project up for success.
+
+
+## Types of Requirements
+
+In the Requirement Analysis phase, it is essential to distinguish between two types of requirements: Functional and Non-functional.
+
+### Functional Requirements
+
+Functional requirements describe the features, behaviors, and interactions of the system. These are the core functionalities that the system must support. For a booking management system, examples include:
+
+- **User Registration**: The system must allow users to register with their personal information, including name, email, and phone number.
+- **Search Functionality**: The system must allow users to search for available properties based on specific criteria, such as location, price, and dates.
+- **Booking Confirmation**: Once a user selects a property, the system must confirm the booking and send a confirmation email to the user.
+
+### Non-functional Requirements
+
+Non-functional requirements define the system's performance, security, scalability, and reliability attributes. These ensure that the system performs well under expected conditions. Examples include:
+
+- **Performance**: The system must load property search results within 2 seconds to ensure a smooth user experience.
+- **Security**: The system must ensure that user data, including personal and payment information, is encrypted and stored securely.
+- **Scalability**: The system should be able to handle an increasing number of users and bookings without significant performance degradation.
+
+Together, functional and non-functional requirements define the system’s expected behaviors and quality attributes.
