@@ -27,3 +27,20 @@ Requirement Analysis is a cornerstone in the SDLC. Below are three key reasons w
 - **Guides the Development Process**: With well-documented requirements, developers can design and implement the system according to a clear plan. It also helps in defining testing criteria, making it easier to evaluate whether the software meets the initial expectations.
 
 Overall, Requirement Analysis ensures that the project is on the right track from the start and increases the likelihood of delivering a successful product.
+
+
+## Key Activities in Requirement Analysis
+
+The Requirement Analysis phase involves several key activities, each of which plays a crucial role in the development process. These activities include:
+
+- **Requirement Gathering**: This activity involves collecting data and information from stakeholders, including users, business managers, and technical teams. Various techniques, such as interviews, surveys, and document analysis, are used to gather requirements.
+
+- **Requirement Elicitation**: This process involves refining and elaborating on the gathered information to better understand the needs and expectations of stakeholders. Techniques like brainstorming, prototyping, and use case development are often employed.
+
+- **Requirement Documentation**: Once the requirements have been gathered and validated, they are documented in detail. This documentation typically includes requirements specifications, use cases, and user stories, and serves as a reference for future stages of development.
+
+- **Requirement Analysis and Modeling**: In this step, the documented requirements are analyzed to ensure they are clear, feasible, and aligned with the project goals. Use case diagrams and data flow diagrams are often used to model the system's requirements visually.
+
+- **Requirement Validation**: This activity involves reviewing the requirements with stakeholders to ensure they are accurate and meet the business and user needs. Any discrepancies are resolved, and the finalized requirements are confirmed before moving on to the design phase.
+
+These activities ensure that the requirements are well-defined, achievable, and aligned with stakeholder expectations, setting the project up for success.
