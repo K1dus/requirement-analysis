@@ -84,3 +84,35 @@ Use Case Diagrams are a visual representation of the interactions between actors
 Below is a Use Case Diagram for the booking management system. It shows the actors involved (e.g., User, Admin) and the key actions they can perform, such as registering, searching for properties, and confirming bookings.
 
 ![Booking System Use Case Diagram](alx-booking-uc.png)
+
+
+## Acceptance Criteria
+
+### Importance of Acceptance Criteria in Requirement Analysis
+Acceptance criteria are essential in Requirement Analysis as they define the conditions that a software feature must satisfy to be accepted by stakeholders. They serve as a benchmark to determine whether the implementation meets the expected outcomes, ensuring clarity, reducing misunderstandings, and aligning the development process with business needs.
+
+#### Key Benefits
+- **Ensuring Stakeholder Alignment**: Clearly defines expectations for developers, testers, and stakeholders.
+- **Improving Communication**: Acts as a common language for stakeholders and the development team.
+- **Facilitating Testing**: Provides a concrete basis for writing test cases.
+
+### Example of Acceptance Criteria: Checkout Feature
+**Feature**: Checkout in the booking management system.
+
+#### Acceptance Criteria:
+1. **User Authentication**:
+   - Only logged-in users can proceed to checkout.
+2. **Booking Summary**:
+   - The system displays a summary of the booking details, including dates, property name, and total price.
+3. **Payment Processing**:
+   - Users can select payment methods (e.g., credit card, PayPal).
+   - Payment gateway processes transactions securely.
+4. **Confirmation**:
+   - A confirmation message is displayed upon successful payment.
+   - A confirmation email is sent to the user with booking details.
+5. **Error Handling**:
+   - If the payment fails, the system provides an appropriate error message and allows retry.
+6. **Timeout Handling**:
+   - If the session times out during checkout, the system redirects users to the login page.
+
+By adhering to well-defined acceptance criteria, teams ensure that features meet user needs, work as intended, and deliver business value.
